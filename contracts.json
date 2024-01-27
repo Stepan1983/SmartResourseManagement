@@ -1,0 +1,6 @@
+{
+    "childContract1": {
+        "publicKey": "80a95ba8a1f5d5039defd0b36931f7a6b37866c18df80e0ed5d027089aec69dc",
+        "parentPublicKey": "a37f28b10599501335802e30390b0a2d340dc084445b34821897a79da026ac2b"
+    }
+}

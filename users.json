@@ -1,0 +1,12 @@
+{
+    "user1": {
+        "publicKey": "a37f28b10599501335802e30390b0a2d340dc084445b34821897a79da026ac2b",
+        "privateKey": "7b917804b97bb7a7",
+        "tokens": 30
+    },
+    "user2": {
+        "publicKey": "d7300b328e066622c0130cec121ba7fc28ae51ee9baaa814a97647bc2780b04a",
+        "privateKey": "0a16763fdc3fc8f5",
+        "tokens": 170
+    }
+}
